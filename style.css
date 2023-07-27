@@ -1,0 +1,37 @@
+ /* ГОЛОВНА */
+ body {
+    --background-color: #F5F4FA;
+    --text-color: #757575;
+    --text-color: #212121;
+ }
+ header {
+    --background-color: #ECECEC;
+    --text-color: #000000;
+    --text-color: #2196F3;
+    --text-color: #757575;
+  }
+  footer {
+    --background-color: #2F303A;
+    --text-color: #2196F3;
+    --text-color: #FFFFFF;
+    --text-color: #FFFFFF99;
+  }
+
+/* ПОРТФОЛІО */
+body {
+    --background-color: #F5F4FA;
+    --text-color: #757575;
+    --text-color: #212121;
+ }
+ header {
+    --background-color: #ECECEC;
+    --text-color: #000000;
+    --text-color: #2196F3;
+    --text-color: #757575;
+  }
+  footer {
+    --background-color: #2F303A;
+    --text-color: #2196F3;
+    --text-color: #FFFFFF;
+    --text-color: #FFFFFF99;
+  }
